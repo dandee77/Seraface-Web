@@ -3,6 +3,7 @@ import { Hero } from "../components/landing/Hero";
 import { Features } from "../components/landing/Features";
 import { Team } from "../components/landing/Team";
 import { AppShowcase } from "../components/landing/AppShowcase";
+import { PitchSection } from "../components/landing/PitchSection";
 import { CTA } from "../components/landing/CTA";
 import { Footer } from "../components/landing/Footer";
 type LandingPageProps = {
@@ -35,6 +36,7 @@ export function LandingPage({ navigate }: LandingPageProps) {
         <Features />
         <AppShowcase />
         <Team />
+        <PitchSection />
         <CTA navigate={navigate} />
         <Footer navigate={navigate} />
       </motion.div>

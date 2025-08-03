@@ -30,7 +30,7 @@ export function Team() {
       name: "Ian Kenneth Augustin",
       role: "Frontend Developer",
       bio: "Frontend developer with a knack for creating visually appealing web applications, dedicated to enhancing user experience.",
-      image: "male.png  ",
+      image: "ian.jpg",
       links: {
         twitter: "#",
         linkedin: "#",
@@ -41,7 +41,7 @@ export function Team() {
       name: "Francine Nicole D.G. Navarro",
       role: "AI Specialist & Graphic Designer",
       bio: "AI and graphic expert with a knack for creating visually stunning and functional designs that enhance user experience.",
-      image: "female.png",
+      image: "francine.png",
       links: {
         twitter: "#",
         linkedin:
