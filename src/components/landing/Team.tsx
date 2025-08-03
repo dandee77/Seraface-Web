@@ -53,7 +53,7 @@ export function Team() {
       name: "Bernice Santiago",
       role: "Marketing Strategist",
       bio: "Marketing strategist with a focus on innovation and brand development, dedicated to promoting innovative tech solutions.",
-      image: "female.png",
+      image: "bernice.jpg",
       links: {
         twitter: "#",
         linkedin: "#",
