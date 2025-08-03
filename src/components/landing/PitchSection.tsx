@@ -140,7 +140,7 @@ export function PitchSection() {
                       <motion.button
                         onClick={() => {
                           // Open PDF in new tab - you'll need to place your PDF in the public folder
-                          window.open("/SERAFACE Pitch Deck.pdf", "_blank");
+                          window.open("./SERAFACE _PITCH_DECK.pdf", "_blank");
                         }}
                         className="flex items-center px-4 py-2 bg-gradient-to-r from-purple-600 to-pink-500 text-white font-medium rounded-lg shadow-md hover:shadow-lg transition-shadow"
                         whileHover={{
