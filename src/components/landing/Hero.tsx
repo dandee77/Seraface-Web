@@ -180,7 +180,7 @@ export function Hero({ navigate }: { navigate: (path: string) => void }) {
                 }}
               >
                 <img
-                  src="/hero.webp"
+                  src="./hero.webp"
                   alt="Seraface App"
                   className="w-full h-auto"
                 />
